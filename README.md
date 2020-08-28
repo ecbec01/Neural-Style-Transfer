@@ -20,7 +20,6 @@ Here are the generated images using the `style transfer.ipynb` notebook:
 <img src="generated images/from_1_to_1.jpg">
 <img src="generated images/from_1_to_2.jpg">
 <img src="generated images/from_1_to_3.jpg">
-<br></br>
 <img src="generated images/from_2_to_1.jpg">
 <img src="generated images/from_2_to_2.jpg">
 <img src="generated images/from_2_to_3.jpg">
